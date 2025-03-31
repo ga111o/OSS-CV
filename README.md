@@ -6,7 +6,18 @@
 
 - 이메일: minhyeok24@kw.ac.kr
 
-- 학교 및 학과: Kwangwoon Univ. Information Convergence
+- 학력: Kwangwoon Univ. Information Convergence, Undergraduate Student
+
+- Certificates:
+
+  - Test of English as a Foreign Language (TOEFL iBT): 112/120, 2026.
+  - Japanese-Language Proficiency Test (JLPT): N1, 155/180, 2027.
+  - Hanyu Shuiping Kaoshi (HSK): 244/300, Level 6, 2027.
+
+- Certifications:
+
+  - AWS Certified Data Engineer Associate, 2026.
+  - AWS Certified Machine Learning Specialty 2027.
 
 - 관심 분야: `HAI(Human-AI Interection, Human-based AI)` / `NLP`
 
