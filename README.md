@@ -61,3 +61,6 @@
 | A Proposed Interface for Art Appreciation by Visually Impaired Individuals          | Kang, M., Kim, S., An, D., Park, K. | The ACM Symposium on User Interface Software and Technology | 2025 |
 | Assess developer understanding of the intervention and use of AI supporters         | Kang, M., Park, K.                  | ACM Conference on Human Factors in Computing Systems        | 2025 |
 | Development and Evaluation Interfaces Optimised to Leverage Language Models         | Kang, M., Park, K.                  | The ACM Symposium on User Interface Software and Technology | 2026 |
+
+## 추천인
+광운대학교 정보융합학부 박규동 교수
